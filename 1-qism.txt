@@ -1,1 +1,5 @@
 Birinchi o'zgarishlar
+
+assalomu alaykum, bu video darslar git clone buyrug'i haqida bo'ladi.
+
+bu my_test papka Ichida.
