@@ -6,3 +6,4 @@ bu my_test papka Ichida.
 
 
 git pull buyrug'i uchun maxsus o'zgarishlar
+ha
