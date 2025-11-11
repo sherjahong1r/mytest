@@ -67,6 +67,9 @@ def play(x=10):
         yana = int(input("Yana o'ynaysizmi? Ha(1)/Yo'q(0):"))
 
 
+# sontop() - deb yozsak kampiyuter sizni o'ynatadi
+# sontop_pc() - bunda siz kampiyuterni o'ynatasiz
+# play() - bunda kampiyuter va siz o'ynaysiz oxirida kim yutganini aytadi.
 
 
 
