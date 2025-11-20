@@ -1,4 +1,8 @@
-
+"""
+Created on Mon Nov 2025
+Maqola chiqaruvchi bot
+@author: Sherjahongir
+"""
 
 import wikipedia
 import logging
@@ -105,4 +109,5 @@ if __name__ == "__main__":
     
     
     
+
     
