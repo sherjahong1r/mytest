@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 27-dars davomi va tugadi. Telegramdagi uz and ru botning ko'dlari.
 Created on Thu Oct  2 22:11:56 2025
@@ -33,6 +32,7 @@ def echo_all(message):
     bot.reply_to(message, javob(msg))
     
 bot.polling()
+
 
 
 
