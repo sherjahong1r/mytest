@@ -14,7 +14,7 @@ conn = psycopg2.connect(
     port=5432,
     database="example_db",
     user="postgres",
-    password="jahongir"
+    password="your_password"
 )
 
 # Jadvallar ro'yxati chiqarildi
@@ -71,6 +71,7 @@ df_dbs = pd.read_sql(
     conn
 )
 print(f"\nMavjud db lar ro'yxati\n{df_dbs}\n")
+
 
 
 
